@@ -6,4 +6,4 @@ Début de la BDD .
 
 Lancer des potins sure les mousaillons de THP . 
 
-C'est moche mes sa marche ! :D
+C'est moche mais ça marche ! :D
